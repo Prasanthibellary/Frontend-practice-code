@@ -1,0 +1,13 @@
+body
+        {
+            background-color: rgba(115, 109, 90, 0.71);
+        }
+        hr
+        {
+            border-color: rgba(70, 58, 149, 0.667);
+            border-style: none;
+            border-top-style: dotted;
+            border-width: 5px;
+            height: 10px;
+            width: 5%;
+        }

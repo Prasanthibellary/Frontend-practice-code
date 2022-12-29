@@ -1,0 +1,36 @@
+body
+        {
+           background-color: rgba(115, 109, 90, 0.71);
+           
+        }
+        
+        hr
+        {
+            border-color: rgba(70, 58, 149, 0.244);
+            border-style: none;
+            border-top-style: dotted;
+            border-width: 5px;
+            height: 10px;
+            width: 5%;
+        }
+        h1
+        {
+            text-align: center;
+            color: rgba(27, 26, 53, 0.829);
+            font-size: 50px;
+        }
+        h3
+        {
+              color: rgba(62, 4, 14, 0.782);font-size: 25px;
+              
+        }
+        .circular
+        {
+            border-radius: 20%;
+        }
+        p
+        {
+            color: beige;
+        }
+        
+        
